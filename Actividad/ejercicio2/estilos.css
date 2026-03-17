@@ -1,0 +1,25 @@
+.ejer {
+    color: rgb(56, 211, 102);
+    background-color: white;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 5px;
+}
+
+.ti {
+    color: white;
+    background-color: rgb(56, 211, 102);
+    padding: 5px;
+    height: 3 px;
+}
+
+.color {
+    margin: 20px;
+    padding: 10px;
+    height: 2 px;
+    background: rgb(56, 211, 102);
+}
+
+.co {
+    margin: 60px;
+}

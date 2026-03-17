@@ -1,0 +1,22 @@
+.div {
+    background: rgb(51, 49, 49);
+    padding: 20px;
+}
+
+.cio {
+    color: white;
+    background-color: red;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 5px;
+}
+
+.m {
+    color: white;
+}
+
+.gris {
+    background-color: rgb(83, 83, 83);
+    border: 5px solid black;
+    padding: 15px;
+}
