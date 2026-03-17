@@ -2,31 +2,28 @@
     color: black;
     background-color: gold;
     border-radius: 20px;
-    margin: 20px;
     padding: 5px;
 }
 
-.fon {
-    color: white;
+.fondo {
+    background-color: rgb(135, 237, 255);
 }
 
 .Mm {
-    margin: 20px;
     padding: 10px;
-    height: 2 px;
     background: blue;
+    color: white;
 }
 
 .Mi {
     color: red;
-    margin: 40px;
 }
 
 .oo {
     font-size: 20px;
-    margin: 40px;
+
 }
 
-.co {
-    background-color: rgb(135, 237, 255);
+.azul {
+    margin: 20px;
 }
